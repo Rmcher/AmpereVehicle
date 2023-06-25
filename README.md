@@ -11,53 +11,27 @@ You should have a relevant background in **embedded development**. In terms of s
 You need to use the [Keil Studio Cloud](https://studio.keil.arm.com/auth/login/) online compiler as the interpreter of the main control program.
 And You also need download the official [IDE of OpenMV](https://openmv.io/pages/download) as the compiler for the python file of the vision module.
 
-## Running the tests
+## Implement
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
+### STM32G474RE
 
-Explain what these tests test and why
+You need to put the two files patio1.c and patio2.c into the active project created in keil studio cloud, and import the online header file according to the instructions.
 
-```
-Give an example
-```
+### OpenMV
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+The two python files can be opened with your familiar IDE, but for a better debugging experience, you can use the OpenMV IDE.
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
