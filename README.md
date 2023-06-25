@@ -23,18 +23,6 @@ You need to put the two files patio1.c and patio2.c into the active project crea
 
 The two python files can be opened with your familiar IDE, but for a better debugging experience, you can use the OpenMV IDE.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* **Ampere Vehicle Team 26** - *Initial work* - Writer [Wu Bo](https://github.com/Rmcher)
