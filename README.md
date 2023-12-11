@@ -25,4 +25,4 @@ The two python files can be opened with your familiar IDE, but for a better debu
 
 ## Authors
 
-* **Ampere Vehicle Team 26** - *Initial work* - Writer [Wu Bo](https://github.com/Rmcher)
+* **Ampere Vehicle Team 26** - *Initial work* - Writer [Wu Binghong](https://github.com/Rmcher)
